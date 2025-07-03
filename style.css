@@ -1,0 +1,16 @@
+body{
+    background: linear-gradient(red, white);
+    background-repeat: no-repeat ;
+    background-attachment: fixed;
+}
+section{
+    background-color: rgb(245, 5, 5);
+}
+h1{
+    color: black;
+}
+
+p{
+     color: black;
+     font-family: "consolas", "sans-serif";
+}
